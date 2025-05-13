@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345e9d53-cae0-4e62-ab67-f783401aaa43" name="Changes" comment="dfgkd" />
+    <list default="true" id="345e9d53-cae0-4e62-ab67-f783401aaa43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +21,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -44,39 +42,35 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2tUprYkSkXrWSJESuD0vYY09Afq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.3.executor": "Run",
-    "Python.4.executor": "Run",
-    "Python.aux5.executor": "Run",
-    "Python.aux6.executor": "Run",
-    "Python.cr1.executor": "Run",
-    "Python.cr2.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.laba2.1.executor": "Run",
-    "Python.laba2.2.executor": "Run",
-    "Python.laba3.executor": "Run",
-    "Python.laba4.1.executor": "Run",
-    "Python.laba4.2.executor": "Run",
-    "Python.laba5func.executor": "Run",
-    "Python.laba5main.executor": "Run",
-    "Python.laba6main.executor": "Run",
-    "Python.laba7.2.executor": "Run",
-    "Python.laba7.executor": "Run",
-    "Python.laba8.executor": "Run",
-    "Python.q7.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aux5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aux6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cr1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cr2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba5func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba5main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba6main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba7.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="laba8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="яитп лабы" />
@@ -103,6 +97,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.laba8" />
+        <item itemvalue="Python.laba8" />
+        <item itemvalue="Python.laba8" />
       </list>
     </recent_temporary>
   </component>
@@ -122,19 +118,6 @@
       <option name="presentableId" value="Default" />
       <updated>1740416706122</updated>
     </task>
-    <task id="LOCAL-00001" summary="dfgkd">
-      <option name="closed" value="true" />
-      <created>1747119416907</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1747119416907</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="dfgkd" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfgkd" />
   </component>
 </project>
