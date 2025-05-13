@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345e9d53-cae0-4e62-ab67-f783401aaa43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="345e9d53-cae0-4e62-ab67-f783401aaa43" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +17,6 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;ditw1ce&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ditw1ce/python.git&quot;,
-    &quot;accountId&quot;: &quot;be036a59-006c-4967-84e8-abc583d93040&quot;
-  }
-}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -42,14 +24,12 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2tUprYkSkXrWSJESuD0vYY09Afq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Python.3.executor&quot;: &quot;Run&quot;,
     &quot;Python.aux5.executor&quot;: &quot;Run&quot;,
     &quot;Python.aux6.executor&quot;: &quot;Run&quot;,
     &quot;Python.cr1.executor&quot;: &quot;Run&quot;,
@@ -66,9 +46,7 @@
     &quot;Python.laba7.executor&quot;: &quot;Run&quot;,
     &quot;Python.laba8.executor&quot;: &quot;Run&quot;,
     &quot;Python.q7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager">
@@ -96,8 +74,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.laba8" />
-        <item itemvalue="Python.laba8" />
         <item itemvalue="Python.laba8" />
       </list>
     </recent_temporary>
