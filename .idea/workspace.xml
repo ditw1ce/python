@@ -51,32 +51,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.3.executor": "Run",
-    "Python.4.executor": "Run",
-    "Python.aux5.executor": "Run",
-    "Python.aux6.executor": "Run",
-    "Python.cr1.executor": "Run",
-    "Python.cr2.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.laba2.1.executor": "Run",
-    "Python.laba2.2.executor": "Run",
-    "Python.laba3.executor": "Run",
-    "Python.laba4.1.executor": "Run",
-    "Python.laba4.2.executor": "Run",
-    "Python.laba5func.executor": "Run",
-    "Python.laba5main.executor": "Run",
-    "Python.laba6main.executor": "Run",
-    "Python.laba7.2.executor": "Run",
-    "Python.laba7.executor": "Run",
-    "Python.laba8.executor": "Run",
-    "Python.q7.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aux5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aux6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cr1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cr2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba5func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba5main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba6main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba7.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="laba8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="яитп лабы" />
