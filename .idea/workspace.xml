@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345e9d53-cae0-4e62-ab67-f783401aaa43" name="Changes" comment="" />
+    <list default="true" id="345e9d53-cae0-4e62-ab67-f783401aaa43" name="Changes" comment="аы">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/яитп лабы.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/яитп лабы.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ditw1ce&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ditw1ce/python.git&quot;,
+    &quot;accountId&quot;: &quot;be036a59-006c-4967-84e8-abc583d93040&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -24,6 +44,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2tUprYkSkXrWSJESuD0vYY09Afq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +57,10 @@
     &quot;Python.aux6.executor&quot;: &quot;Run&quot;,
     &quot;Python.cr1.executor&quot;: &quot;Run&quot;,
     &quot;Python.cr2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kontrol1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kontrol2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kontrol3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kontrol4.executor&quot;: &quot;Run&quot;,
     &quot;Python.laba2.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.laba2.2.executor&quot;: &quot;Run&quot;,
     &quot;Python.laba3.executor&quot;: &quot;Run&quot;,
@@ -46,7 +73,14 @@
     &quot;Python.laba7.executor&quot;: &quot;Run&quot;,
     &quot;Python.laba8.executor&quot;: &quot;Run&quot;,
     &quot;Python.q7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
   }
 }</component>
   <component name="RunManager">
@@ -94,6 +128,19 @@
       <option name="presentableId" value="Default" />
       <updated>1740416706122</updated>
     </task>
+    <task id="LOCAL-00001" summary="аы">
+      <option name="closed" value="true" />
+      <created>1747120224788</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747120224788</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="аы" />
+    <option name="LAST_COMMIT_MESSAGE" value="аы" />
   </component>
 </project>
